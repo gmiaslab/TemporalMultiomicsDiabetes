@@ -1,4 +1,17 @@
 # Byte-compiled / optimized / DLL files
+dev/
+/.vs/
+*.pyproj
+*.sln
+
+
+# Mac Files
+*.DS_Store
+
+# Vscode settings
+.vscode/settings.json
+
+
 __pycache__/
 *.py[cod]
 *$py.class
