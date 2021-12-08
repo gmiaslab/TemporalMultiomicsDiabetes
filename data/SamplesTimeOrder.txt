@@ -1,0 +1,3 @@
+The data order may NOT be in time order. 
+
+Please check the "VisitList" file to get the time order of samples.
